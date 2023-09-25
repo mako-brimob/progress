@@ -1,0 +1,21 @@
+
+      h1 {
+        color: #0d1e7e; 
+        text-align: center; 
+        background-color: rgb(108, 248, 52);
+        border-style: outset;
+        
+      }
+      
+
+    
+    
+h2 {
+    color: aqua;
+    background-color: gold;
+    text-align: center;
+    border-style: inset;
+}
+image {
+    border-style: outset;
+}
